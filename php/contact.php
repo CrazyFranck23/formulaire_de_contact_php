@@ -5,7 +5,7 @@
     // $firstname = $name = $email = $phone = $message = "";
     // $firstnameError = $nameError = $emailError = $phoneError = $messageError = "";
     // $isSuccess = false;
-    $emailTo = "erikfranckeinstein@yahoo.fr";
+    $emailTo = "xxfranckxxxx@email.fr";
 
     if ($_SERVER["REQUEST_METHOD"] == "POST")
     {
